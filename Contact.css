@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+
+
+#mekas{
+	height: 25%;
+	width: 50%;
+}
+
+.social{
+	margin-top: 40px;
+}
+
+.social i{
+	color: #a52a2a ;
+	font-size: 30px;
+	padding: 0px 10px;
+}
